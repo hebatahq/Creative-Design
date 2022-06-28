@@ -1106,8 +1106,7 @@ footer .end-footer a{
         display: none;
     }
     .header{
-        width: 90%;
-        background-color: #000;
+        width: 100%;
     }
     .content p{
         transform: translate(18px,0px);
