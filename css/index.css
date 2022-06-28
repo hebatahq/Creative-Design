@@ -1107,6 +1107,7 @@ footer .end-footer a{
     }
     .header{
         width: 90%;
+        position: fixed;
     }
     .content p{
         transform: translate(18px,0px);
