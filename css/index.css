@@ -1105,6 +1105,9 @@ footer .end-footer a{
     header nav ul{
         display: none;
     }
+    .header{
+        width: 70%;
+    }
     .content p{
         transform: translate(18px,0px);
          width: 100%;
@@ -1219,7 +1222,7 @@ footer .end-footer a{
         font-size: 20px;
     }
     footer {
-        height: 126vh;
+        height: 115vh;
     }
     .footer :first-child p {
         transform: translate(7px, 10px);
